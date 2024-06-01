@@ -5,7 +5,7 @@
 
 	if(!empty($_SESSION['error'])){
 		$error = $_SESSION['error'];	//only once 
-		unset($_SESSION['error']);	// update comment
+		unset($_SESSION['error']);	// Hehe boi
 	}
 ?>
 
