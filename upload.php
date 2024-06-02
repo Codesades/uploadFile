@@ -33,5 +33,6 @@
         header('Location:exercise1.php');
         die();
     }
+    //Hello world
     //echo $ext;
 ?>
